@@ -4,6 +4,7 @@ My first repository
 ### **My Favorite Series/Movie**
 
 ### 1. Money Heist
+>A criminal mastermind who goes by "The Professor" has a plan to pull off the biggest heist in recorded history -- to print billions of euros in the Royal Mint of Spain. To help him carry out the ambitious plan, he recruits eight people with certain abilities and who have nothing to lose.
 ![Money Heist](https://github.com/jhunmark13/app-dev/blob/main/1_EBRayJT4vgCBGBx7Nn9_6w%402x.jpg)
 ### 2. Lupin
 ![lupin](https://github.com/jhunmark13/app-dev/blob/main/LUPIN_S2_16X9_EN-US.jpg)
