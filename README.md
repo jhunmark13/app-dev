@@ -1,11 +1,12 @@
 # app-dev
 My first repository
 
-### My Favorite Series/Movie
+### **My Favorite Series/Movie**
 
-* Money Heist
-* Lupin
-* Baby Driver
-* The Call
-* Perfume
-* The Curious Case of Benjamin Button
+### 1. Money Heist
+![Money Heist](https://github.com/jhunmark13/app-dev/blob/main/1_EBRayJT4vgCBGBx7Nn9_6w%402x.jpg)
+### 2. Lupin
+### 3. Baby Driver
+### 4. The Call
+### 5. Perfume
+### 6. The Curious Case of Benjamin Button
